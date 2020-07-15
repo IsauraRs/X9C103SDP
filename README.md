@@ -1,0 +1,1 @@
+#Digital potentiometer fritzing part
